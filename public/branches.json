@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Gadget Heaven - New York",
+        "location": "101 5th Ave, New York, NY",
+        "contact": "0123456789",
+        "hours": "10:00 AM - 8:00 PM"
+    },
+    {
+        "id": 2,
+        "name": "Gadget Heaven - Los Angeles",
+        "location": "202 Sunset Blvd, Los Angeles, CA",
+        "contact": "9876543210",
+        "hours": "10:00 AM - 9:00 PM"
+    },
+    {
+        "id": 3,
+        "name": "Gadget Heaven - Chicago",
+        "location": "303 Michigan Ave, Chicago, IL",
+        "contact": "1029384756",
+        "hours": "11:00 AM - 10:00 PM"
+    },
+    {
+        "id": 4,
+        "name": "Gadget Heaven - Miami",
+        "location": "404 Ocean Dr, Miami, FL",
+        "contact": "5647382910",
+        "hours": "9:00 AM - 7:00 PM"
+    }
+]
